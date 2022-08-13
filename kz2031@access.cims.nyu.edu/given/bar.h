@@ -4,4 +4,4 @@
 /* This is the signature for the function 
  * that you need to implement. 
  */ 
-long foo ( long a, long b ) ; 
+long bar ( long a, long b ) ; 
